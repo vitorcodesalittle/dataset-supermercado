@@ -64,3 +64,19 @@ pesquisar pão
 ver biscoitos
 quais as opções de cerveja
 detergente mais barato
+
+finalizar
+Finalizar carrinho
+Finalizar compras
+Terminar
+terminar carrinho
+terminar compras
+acabar
+Acabar carrinho
+acabar compras
+terminei
+terminei as compras
+finalizei
+finalizei as compras
+acabei
+acabei as compras
